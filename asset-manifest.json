@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coursify_assignment/static/css/main.b0a30379.css",
+    "main.js": "/coursify_assignment/static/js/main.6ba51b28.js",
+    "index.html": "/coursify_assignment/index.html",
+    "main.b0a30379.css.map": "/coursify_assignment/static/css/main.b0a30379.css.map",
+    "main.6ba51b28.js.map": "/coursify_assignment/static/js/main.6ba51b28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a30379.css",
+    "static/js/main.6ba51b28.js"
+  ]
+}
